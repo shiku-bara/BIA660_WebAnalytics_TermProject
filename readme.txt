@@ -1,5 +1,5 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Rotten Tomatoes Score Predictor Modelling~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-**Team 8 - Shivakumar Barathi**
+~~~~~~~~~~~~~~~~~~Rotten Tomatoes Score Predictor Modelling~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Team 8 - Shivakumar Barathi (One member team)**
 
 ==============What and How to Run==============
 Pre-Processing steps:
